@@ -1,8 +1,8 @@
-# Interesting_Functions_by_C
+# Interesting_Functions
 
 ### The header files used in this code are:
 
-```
+```c
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
@@ -11,7 +11,14 @@
 #include <math.h>
 ```
 > [!IMPORTANT]
-> **The `conio.h` header file is one of the header files used in this [Interesting_Functions.c](https://github.com/AsadullahAlMunib/Interesting_Functions_by_C/blob/main/Interesting_Functions.c) code. If you want to use it, make sure your compiler supports the `conio.h` header file.**
+> **The `conio.h` header file is one of the header files used in this [Interesting_Functions.c](https://github.com/AsadullahAlMunib/Interesting_Functions/blob/main/Interesting_Functions.c) code.**
+>
+> **If you want to use it, make sure your compiler supports the `conio.h` header file.**
+
+> [!TIP]
+> ***If you don't have a compiler that supports `conio.h`, you can use the [Interesting_Functions_2.c](https://github.com/AsadullahAlMunib/Interesting_Functions/blob/main/Interesting_Functions_2.c) code.***
+>
+> - [x] ***All systems used by the `conio.h` header file are commented out here, so*** **this code won't clear the screen** ***at different times with function changes!***
 
 **There are 11 types of functions in this code:**
 > ***`And I will try to UPDATE and IMPROVE it, Insha'Allah.`***
